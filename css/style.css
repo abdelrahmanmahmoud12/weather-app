@@ -1,0 +1,103 @@
+body{
+    
+}
+#home{
+    
+    background-color: #1E202B;
+}
+nav{
+    background-color: #1E202B ;
+}
+.nav-link{
+    color: white !important;
+    padding: 0 20px !important;
+    padding: 5 25 !important;
+}
+.nav-item:hover{
+    color:#009AD8 !important;
+    border: 1px solid #009AD8 !important;
+}
+.nav-item{
+    padding: 0 15px;
+    transition: all 1.5s;
+
+}
+.home{
+    color:#009AD8 !important;
+    padding: 5 25 !important;
+    
+}
+.bg-section{
+   
+   background-color: #1E202B;
+    background-image: url(../images/banner.png);
+    background-repeat: no-repeat;
+    padding-top: 70px;
+}
+.form-control{
+    background-color: #1E202B !important;
+    border: 1px solid #1E202B !important;
+}
+.search{
+    position: relative;
+    width: 70%;
+    border-radius: 50%;
+    
+}
+.btn{
+    position: absolute;
+    top: 6;
+    right: 6;
+    padding: 10 40px !important;
+    background-color: #009AD8 !important;
+}
+footer{
+    background-color: #262936;
+}
+footer .search{
+    width: 50%;
+}
+.fa-brands{
+    color: white;
+}
+.row .search .btn{
+    position: absolute;
+    top: 6;
+    right: 17;
+}
+.fa-brands{
+background-color: #1E202B;
+padding: 20px;
+border-radius: 50%;
+font-size: 15px;
+margin: 0 3px;
+transition: all 0.5s;
+color: #009AD8;
+}
+.fa-brands:hover{
+    cursor: pointer;
+    background-color: #009AD8;
+    color: white;
+}
+.details p{
+    padding-right: 20px;
+}
+.first-day-temp{
+    font-size: 80px;
+}
+.section1,.section3{
+background-color: #323544;
+}
+.section2{
+    background-color: #262936;
+}
+p{
+    color: #BFC1C8;
+}
+span{
+    color: #009AD8;
+}
+h2{
+    color: white;
+}
+
